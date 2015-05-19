@@ -111,14 +111,32 @@
   </url>
   
   <url>
+    <loc>http://martinmilner.me/jobs/2014/image-30/</loc>
+    <lastmod>2014-08-30T04:35:06+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://martinmilner.me/jobs/2014/image-06/</loc>
     <lastmod>2014-08-30T04:35:06+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
+    <loc>http://martinmilner.me/jobs/2014/image-29/</loc>
+    <lastmod>2014-08-30T04:35:05+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://martinmilner.me/jobs/2014/image-05/</loc>
     <lastmod>2014-08-30T04:35:05+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://martinmilner.me/jobs/2014/image-28/</loc>
+    <lastmod>2014-08-30T04:35:04+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   
@@ -215,14 +233,14 @@
   
   <url>
     <loc>http://martinmilner.me/</loc>
-    <lastmod>2015-04-27T16:53:12+02:00</lastmod>
+    <lastmod>2015-05-19T23:41:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://martinmilner.me/contact/</loc>
-    <lastmod>2015-04-27T16:53:12+02:00</lastmod>
+    <lastmod>2015-05-19T23:41:55+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
